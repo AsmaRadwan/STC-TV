@@ -2,11 +2,16 @@
 This project aims to analyze and enhance user engagement on the STC TV platform. It is divided into three tasks that focus on data analysis, time series modeling, and recommendation systems.
 
 ## Table of Contents
-•Tasks
+•Tasks 
+
 Task 1: Data Analysis
+
 Task 2: Time Series Analysis
+
 Task 3: Recommendation System
+
 •Results
+
 •Contributing
 
 ### Tasks
